@@ -1,5 +1,5 @@
 # Efficient TTA with Cache-based Dynamic Adapter (TDA)
-Official Paper:
+> Official Paper:
 > [**Efficient Test-Time Adaptation of Vision-Language Models**](http://arxiv.org/abs/2403.18293)<br>
 > [Adilbek Karmanov](https://www.linkedin.com/in/adilbek-karmanov/), [Dayan Guan](https://dayan-guan.github.io/), [Shijian Lu](https://scholar.google.com/citations?hl=en&user=uYmK-A0AAAAJ&view=en), [Abdulmotaleb El Saddik](https://scholar.google.ca/citations?user=VcOjgngAAAAJ&hl=en), [Eric Xing](https://scholar.google.com/citations?user=5pKTRxEAAAAJ&hl=en)
 
